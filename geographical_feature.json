@@ -1,0 +1,52 @@
+{
+    "flat": [
+        "camp",
+        "flat",
+        "garden",
+        "gerholdland",
+        "harv",
+        "highway",
+        "manor",
+        "park",
+        "path",
+        "plain",
+        "plaza",
+        "ranch",
+        "road",
+        "terrence",
+        "throughway",
+        "trafficway",
+        "turnpike",
+        "village"
+    ],
+    "relief": [
+        "cliff",
+        "dale",
+        "fall",
+        "forest",
+        "glen",
+        "hill",
+        "mountain",
+        "ridge",
+        "rway",
+        "sierra",
+        "summit",
+        "valley",
+        "view",
+        "vista"
+    ],
+    "water": [
+        "bridge",
+        "brook",
+        "cape",
+        "cove",
+        "island",
+        "isle",
+        "lake",
+        "port",
+        "rapid",
+        "river",
+        "shore",
+        "stream"
+    ]
+}
